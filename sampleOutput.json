@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Lancement d'une plateforme dédiée aux sports de pleine nature",
+            "description": "100 % Outdoor, une plateforme spécialisée dans les sports outdoor, sera lancée ce dimanche. Elle espère devenir vite incontournable.",
+            "url": "https://www.lequipe.fr/Adrenaline/Medias/Actualites/Lancement-d-une-plateforme-dediee-aux-sports-de-pleine-nature/1324236",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/100-outdoor-sera-le-diffuseur-de-tous-les-sports-de-pleine-nature-dr/1500000001622747/0:0,1507:1005-640-427-75/28932.jpg",
+            "publishedAt": "2022-03-25T14:24:00+00:00",
+            "content": "Ces dernières années, les sports pratiqués en pleine nature comme le trail ou le VTT ont connu une forte expansion. Afin de relayer cette mouvance, la société Infinity Nine Media, détenue par les bas… [+807 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "Saudi Arabian Grand Prix first practice - radio & text",
+            "description": "Follow live text and BBC Radio 5 Live Sports Extra commentary from first and second practice at the Saudi Arabian Grand Prix.",
+            "url": "http://www.bbc.co.uk/sport/live/formula1/58919690",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+            "publishedAt": "2022-03-25T13:52:28.7293885Z",
+            "content": "The\r\ndrivers were not happy with the safety standards at the new Jeddah street track\r\nat last years inaugural Saudi Arabian Grand Prix and asked for changes. These\r\nlargely focused on the proximity o… [+1458 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "Baker Mayfield, Patrick Mahomes among stars 'Under Duress'",
+            "description": "See which of the biggest names in sports have landed on Chris Broussard's “Under Duress” list this week.",
+            "url": "http://www.foxsports.com/stories/nfl/baker-mayfield-patrick-mahomes-among-stars-under-duress",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/1408/814/03.24.22_Broussard-Under-Duress_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-03-25T13:26:31Z",
+            "content": "Chris Broussard\r\n's \"Under Duress\" list is back!\r\nAnd with the Kansas City Chiefs\r\n dealing Tyreek Hill to the Miami Dolphins, both Tua Tagovailoa and Patrick Mahomes\r\n land themselves at the top of … [+6339 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": null,
+            "title": "They fled war to find safety in Canada, advocates say. Now, the lives they've built here could fall apart | CBC News",
+            "description": "Kaif Ali is one a growing number of Somalis who advocates say have had their refugee claims invalidated by the Immigration and Refugee Board, and who could face deportation because of the fraudulent passports they used to flee their homeland.",
+            "url": "https://www.cbc.ca/news/canada/toronto/somali-canada-deportation-passports-1.6393520",
+            "urlToImage": "https://i.cbc.ca/1.6394113.1647995769!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kaif-ali.jpg",
+            "publishedAt": "2022-03-25T12:22:05+00:00",
+            "content": "Kaif Ali is only 23, but she's spent the last five years putting her life back together  starting with escaping war in Somalia, to putting her faith in a smuggler to find safety, to landing in Canada… [+6262 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Special Section: District of Sports Podcast",
+            "description": "Washington Times sports reporters Matthew Paras, Jacob Calvin Meyer, and George Gerbo get together bi-weekly for a discussion on the latest storylines, details, and trends in the world of D.C. sports.",
+            "url": "https://www.washingtontimes.com/specials/district-sports-podcast/",
+            "urlToImage": "https://media.washtimes.com/media/specials/thumbnails/DOSthumbnailV2.jpg",
+            "publishedAt": "2022-03-25T10:52:30.5899591Z",
+            "content": "Washington Times sports reporters Matthew Paras, Jacob Calvin Meyer, and George Gerbo get together bi-weekly for a discussion on the latest storylines, details, and trends in the world of D.C. sports… [+2025 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Canada falls to Costa Rica in 1st loss of World Cup qualifying campaign | CBC Sports",
+            "description": "Canada's bid to seal World Cup qualification was put on hold Thursday after a 1-0 loss to Costa Rica that saw the Canadians play a man down for almost two-thirds of the match.",
+            "url": "http://www.cbc.ca/sports/soccer/canada-costa-rica-world-cup-qualifier-1.6397020",
+            "urlToImage": "https://i.cbc.ca/1.6397104.1648181700!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1239482246.jpg",
+            "publishedAt": "2022-03-25T08:52:20.8862515Z",
+            "content": "Canada's bid to seal World Cup qualification was put on hold Thursday after a 1-0 loss to Costa Rica that saw the Canadians play a man down for almost two-thirds of the match.\r\nBut the future remains… [+9064 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "They fled war to find safety in Canada, advocates say. Now, the lives they've built here could fall apart | CBC News",
+            "description": "Kaif Ali is one a growing number of Somalis who advocates say have had their refugee claims invalidated by the Immigration and Refugee Board, and who could face deportation because of the fraudulent passports they used to flee their homeland.",
+            "url": "http://www.cbc.ca/news/canada/toronto/somali-canada-deportation-passports-1.6393520",
+            "urlToImage": "https://i.cbc.ca/1.6394113.1647995769!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kaif-ali.jpg",
+            "publishedAt": "2022-03-25T08:07:34.8548605Z",
+            "content": "Kaif Ali is only 23, but she's spent the last five years putting her life back together  starting with escaping war in Somalia, to putting her faith in a smuggler to find safety, to landing in Canada… [+6266 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Jeff Poor",
+            "title": "Herschel Walker: Presidential Fitness Council Firing Threat Meant to Throw Campaign 'Off Track'",
+            "description": "Wednesday, the Biden administration asked for the resignation of Herschel Walker, a candidate for U.S. Senate in Georgia, and Mehmet Oz, a candidate for U.S. Senate in Pennsylvania, two Trump-appointed members, from the President's Council on Sports, Fitness …",
+            "url": "https://www.breitbart.com/clips/2022/03/24/herschel-walker-presidential-fitness-council-firing-threat-meant-to-throw-campaign-off-track/",
+            "urlToImage": "https://media.breitbart.com/media/2022/01/GettyImages-1235507269-640x335.jpg",
+            "publishedAt": "2022-03-25T06:36:23Z",
+            "content": "Wednesday, the Biden administration asked for the resignations of Herschel Walker, a candidate for U.S. Senate in Georgia, and Mehmet Oz, a candidate for U.S. Senate in Pennsylvania, two Trump-appoin… [+1444 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Sam Machkovech",
+            "title": "Report: EA Sports to finally move forward with FIFA-less soccer game",
+            "description": "Leaked name from Oct '21 appears to be confirmed: \"I've asked around. That's the name.\"",
+            "url": "https://arstechnica.com/gaming/2022/03/report-ea-sports-to-finally-move-forward-with-fifa-less-soccer-game/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/ea-fc-edit-760x380.png",
+            "publishedAt": "2022-03-24T23:51:47+00:00",
+            "content": "Enlarge/ Ars Technica's MS Paint interpretation of what appears to be a finalized divorce between EA Sports and FIFA.\r\n70 with 59 posters participating\r\nHidden amidst the usual \"coming this fall\" sla… [+2702 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Oklahoma Senate OKs ban on transgender girls in sports",
+            "description": "",
+            "url": "https://abcnews.go.com/Sports/wireStory/oklahoma-senate-oks-ban-transgender-girls-sports-83659067",
+            "urlToImage": "https://s.abcnews.com/images/US/220324_vod_onlocation_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-03-24T23:47:58Z",
+            "content": "OKLAHOMA CITY -- The Oklahoma Senate on Thursday gave final legislative approval to a bill that prevents transgender girls from playing on female sports teams.\r\nThe Senate passed the bill Thursday on… [+475 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times http://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2021-02-10T03:52:37.2719772Z",
+            "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+        }
+    ]
+}
